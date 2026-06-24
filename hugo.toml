@@ -7,10 +7,10 @@ enableRobotsTXT = true
 [params]
   description = 'Heat and Climate Resilience Expert helping cities prepare for urban heat, flooding, and biodiversity loss.'
   email = 'vjbrown33@gmail.com'
-  location = 'Rotterdam, Netherlands'
+  location = 'The Hague, Netherlands'
 
 [params.homepage]
-  sections = ["hero", "news", "research"]
+  sections = ["hero", "news", "research", "writings"]
 
   [params.homepage.hero]
     enable = true
@@ -31,6 +31,18 @@ enableRobotsTXT = true
     title = "Publications"
     limit = 5
     showInMenu = false
+
+  [params.homepage.writings]
+    enable = true
+    layout = "news"
+    title = "Writings"
+    limit = 3
+    showInMenu = false
+
+[[menu.main]]
+  name = "Writings"
+  url = "/writings/"
+  weight = 5
 
 [[menu.main]]
   name = "Research"
