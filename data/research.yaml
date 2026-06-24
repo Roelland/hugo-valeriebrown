@@ -1,0 +1,60 @@
+items:
+  - date: "2025"
+    detail: "Brown, V., Bouikidis, A., & Kapetas, L. [**Building Resilience to Heat in the City of Athens**](https://doi.org/10.5281/zenodo.17243304). *Resilient Cities Network*."
+    badges: ["Heat & Flooding", "Report"]
+
+  - date: "2025"
+    detail: "Lauren Sorkin & Valerie Brown. **Heat Resilience: A Gateway to Solving Urban Challenges**. *Urban Solutions Magazine*, Issue 25."
+    badges: ["Heat & Flooding", "Article"]
+
+  - date: "2025"
+    detail: "Valerie Brown. **Leveraging Biowaste to Revitalise Urban Agriculture**. *Resilient Cities Network*."
+    badges: ["Biodiversity/NBS", "Report"]
+
+  - date: "2025"
+    detail: "Valerie Brown & Leon Kapetas. **Developing capabilities for cities to reduce their biodiversity impact** (Reports D4.3 & D4.4). *BIOTRAILS, EU Horizon*."
+    badges: ["Biodiversity/NBS", "Report"]
+
+  - date: "2025"
+    detail: "F. Aili, G. Alonso, V. Brown et al. **Mobilizing local resources for climate adaptation through innovative Public-Private Partnerships**."
+    badges: ["Policy", "Report"]
+
+  - date: "2024"
+    detail: "Valerie Brown. **Building Urban Resilience With Communities**. *Resilient Cities Network*."
+    badges: ["Community", "Report"]
+
+  - date: "2022"
+    detail: "Valerie Brown, Hlompho Vivian & City of Durban. **A Guide to Creating a Business Case for Transformative Riverine Management**. *C40 Cities Finance Facility*."
+    badges: ["Biodiversity/NBS", "Guide"]
+
+  - date: "2022"
+    detail: "Aris Moro, Mehrnaz Ghojeh, Valerie Brown & WSP. **Banking on a Just and Green Recovery: Lessons from 9 Cities**. *C40 Cities Finance Facility*."
+    badges: ["Policy", "Report"]
+
+  - date: "2021"
+    detail: "Jessy Appavoo & Valerie Brown. **The strategic importance of building flood resilience in the Greater Dakar Region**. *C40 Cities Finance Facility*."
+    badges: ["Heat & Flooding", "Report"]
+
+  - date: "2021"
+    detail: "Valerie Brown. **Flooding in East Africa: The impacts on and implications for cities in East Africa**. *C40 Cities Finance Facility*."
+    badges: ["Heat & Flooding", "Report"]
+
+  - date: "2021"
+    detail: "Matt Nohn, Tommaso Bassetti, Valerie Brown & Malte Lellmann. **Integrating Benefits in Sustainable Infrastructure**. *C40 Cities Finance Facility*."
+    badges: ["Policy", "Guide"]
+
+  - date: "2021"
+    detail: "Heather Allen, Tommaso Bassetti, Valerie Brown et al. **Inclusive And Equitable Urban Transport: A Planning Guide for Cities**. *C40 Cities Finance Facility*."
+    badges: ["Policy", "Guide"]
+
+  - date: "2020"
+    detail: "Shahid Solomon, Jessy Appavoo & Valerie Brown. **Addressing Finance and Capacity Barriers For Nature-based Solutions Implementation At City Level**. *U20*."
+    badges: ["Biodiversity/NBS", "Policy"]
+
+  - date: "2020"
+    detail: "Arjan Wardekker, Bettina Wilk, Valerie Brown et al. **A diagnostic tool for supporting policy making on urban resilience**. *Cities: The International Journal of Urban Policy and Planning*."
+    badges: ["Policy", "Journal Article"]
+
+  - date: "2018"
+    detail: "Anat Prag & Valerie Brown. **Urban Farming and Reshaping Neighbourhoods**. *Cordaid*."
+    badges: ["Biodiversity/NBS", "Report"]

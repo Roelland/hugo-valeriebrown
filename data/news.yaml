@@ -1,0 +1,20 @@
+items:
+  - date: "2025"
+    detail: "Serving as **Expert Reviewer** for the IPCC Special Report on Climate Change and Cities (SRCities) 2026."
+    badges: ["IPCC", "Expert Review"]
+
+  - date: "2025"
+    detail: "**Panel speaker** at the Swimmable Cities Summit (Rotterdam) on the competitive and collaborative advantages of urban swimming."
+    badges: ["Talk", "Urban Heat"]
+
+  - date: "2025"
+    detail: "Facilitated a session on nature-based heat resilience approaches at the **EuroGEO Workshop** (The Hague)."
+    badges: ["Talk", "NBS"]
+
+  - date: "2025"
+    detail: "Presented the **Zurich Urban Climate Resilience Program** at Greater Manchester Climate Week."
+    badges: ["Talk", "Resilience"]
+
+  - date: "2025"
+    detail: "Presented **Leveraging Biowaste for Urban Climate Adaptation** at the European Urban Resilience Forum."
+    badges: ["Talk", "Biowaste"]

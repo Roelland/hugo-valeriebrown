@@ -1,0 +1,70 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'Valerie Brown'
+theme = 'celadon'
+enableRobotsTXT = true
+
+[params]
+  description = 'Heat and Climate Resilience Expert helping cities prepare for urban heat, flooding, and biodiversity loss.'
+  email = 'vjbrown33@gmail.com'
+  location = 'Rotterdam, Netherlands'
+
+[params.homepage]
+  sections = ["hero", "news", "research"]
+
+  [params.homepage.hero]
+    enable = true
+    layout = "hero"
+    title = "About"
+    showInMenu = false
+
+  [params.homepage.news]
+    enable = true
+    layout = "news"
+    title = "Recent Engagements"
+    limit = 5
+    showInMenu = false
+
+  [params.homepage.research]
+    enable = true
+    layout = "news"
+    title = "Publications"
+    limit = 5
+    showInMenu = false
+
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 10
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        enableInShortcodes = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [
+            ["\\[", "\\]"],
+            ["$$", "$$"]
+          ]
+          inline = [
+            ["\\(", "\\)"],
+            ["$", "$"]
+          ]
+  [markup.highlight]
+    style = "friendly"
+    noClasses = false
+
+[[cascade]]
+  layout = "single"
+  [cascade._target]
+    path = "/**"
+    kind = "page"

@@ -1,0 +1,26 @@
+name: "Valerie Brown"
+title: "Urbanb Heat and Climate Resilience Expert"
+summary: >
+  Welcome! I am a climate resilience professional with over a decade of experience
+  helping cities prepare for ~~urban heat, flooding, and biodiversity loss.~~
+  Skilled at turning research into action through simplification, locally owned project and a long term strategy. 
+  Passionate about ~~nature-based solutions~~ and equity.
+profile_image: "images/profile.jpg"
+profile_layout: "classic"
+profile_image_style: "rectangle"
+
+highlights_title: "Areas of Expertise"
+list:
+  - "Urban Heat Resilience & Adaptation"
+  - "Nature-Based Solutions (NBS)"
+  - "Climate Adaptation Finance"
+  - "Community Resilience & Equity"
+  - "Disaster Risk Reduction"
+
+links:
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/valerie-brown-a4b06363/"
+  - label: "Email"
+    url: "mailto:vjbrown33@gmail.com"
+  - label: "Resume"
+    url: "/resume/"
